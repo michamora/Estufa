@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\Estufa.exe
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\Estufa.deps.json
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\Estufa.runtimeconfig.json
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\Estufa.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\ref\Estufa.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\bin\Debug\net6.0\Estufa.pdb
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.AssemblyInfo.cs
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\ref\Estufa.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.pdb
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\Estufa\obj\Debug\net6.0\Estufa.genruntimeconfig.cache
